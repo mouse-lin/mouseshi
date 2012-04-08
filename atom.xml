@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://mouse-lin.github.com/mouseshi/atom.xml" rel="self"/>
+  <link href="http://mouse-lin.github.com/mouseshi/"/>
+  <updated>2012-04-09T00:03:02+08:00</updated>
+  <id>http://mouse-lin.github.com/mouseshi/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[mouse]]></title>
+    <link href="http://mouse-lin.github.com/mouseshi/blog/2012/04/08/mouse/"/>
+    <updated>2012-04-08T23:45:00+08:00</updated>
+    <id>http://mouse-lin.github.com/mouseshi/blog/2012/04/08/mouse</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
