@@ -4,7 +4,7 @@
   <title><![CDATA[Mouse Blog]]></title>
   <link href="http://mouse-lin.github.com/mouseshi/atom.xml" rel="self"/>
   <link href="http://mouse-lin.github.com/mouseshi/"/>
-  <updated>2012-04-09T00:47:34+08:00</updated>
+  <updated>2012-04-09T00:51:05+08:00</updated>
   <id>http://mouse-lin.github.com/mouseshi/</id>
   <author>
     <name><![CDATA[Mouse]]></name>
@@ -19,6 +19,12 @@
     <updated>2012-04-09T00:18:00+08:00</updated>
     <id>http://mouse-lin.github.com/mouseshi/blog/2012/04/09/test-mouse</id>
     <content type="html"><![CDATA[<div> i am mouse</div>
+
+
+<ul>
+  <li>1</li>
+  <li>2</li>
+</ul>
 
 ]]></content>
   </entry>
